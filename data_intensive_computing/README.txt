@@ -1,0 +1,1 @@
+This folder contains projects pertaining to Data Intensive Computing. The projects include data analysis, visualisation and implementations of mapper-reducers to name a few topics.
